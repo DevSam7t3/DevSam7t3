@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samirashid54222@gmail.com**
 
-- 📄 Know about my experiences [https://sami-portfolio.vercel.app/Images/Samiullah-resume.pdf](https://sami-portfolio.vercel.app/Images/Samiullah-resume.pdf)
+- 📄 Know about my experiences [Resume](https://sami-portfolio.vercel.app/Images/Samiullah-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
