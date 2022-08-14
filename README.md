@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevSam7t3&label=Profile%20views&color=0e75b6&style=flat" alt="DevSam7t3" /> </p>
 
-<p align="left"> <a href="https://instagram.com/samkhan7t3" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="samkhan7t3" /></a> </p>
 
 - 💬 Ask me about ** MEARN **
 
